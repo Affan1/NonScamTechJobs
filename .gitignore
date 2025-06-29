@@ -194,4 +194,4 @@ cython_debug/
 .cursorindexingignore
 
 # Visual Studio files that need to be ignored.
-.vs
+.vs/
